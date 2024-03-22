@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    overflow-clip-margin: hidden;
+}
+
+.home_head{
+    background-image: url(/src/assets/home/home_bg.png);
+    background-repeat: no-repeat;
+}
+
+.visit_home{
+    background-image: url(/src/assets/home/bg_visit.png);
+    background-repeat: no-repeat;
+}
