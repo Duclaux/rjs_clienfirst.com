@@ -18,3 +18,8 @@ body{
     background-image: url(/src/assets/home/bg_visit.png);
     background-repeat: no-repeat;
 }
+
+.about_header{
+    background-image: url(/src/assets/about/about_bg.png);
+    background-repeat: no-repeat;
+}

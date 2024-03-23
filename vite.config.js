@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [
     react(),
     Pages({
-      dirs: 'src/pages',
+      dirs: 'src/pages/',
     })
   ],
 })

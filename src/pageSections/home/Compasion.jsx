@@ -23,9 +23,9 @@ function Compasion() {
             
             {/* les images */}
             <div className='lg:flex space-y-[10px] lg:space-y-0 lg:space-x-[24px] w-fit mx-auto translate-y-[-40px]'>
-                <img src={Img1} alt="" className='mx-auto w-full lg:mx-0 lg:w-[293px] lg:h-[384px]' />
-                <img src={Img2} alt="" className='lg:translate-y-[64px] mx-auto w-full lg:mx-0 lg:w-[293px] lg:h-[384px]'/>
-                <img src={Img3} alt=""  className='mx-auto w-full lg:mx-0 lg:w-[293px] lg:h-[384px]'/>
+                <img src={Img1} alt="" className='mx-auto w-full hidden lg:flex lg:mx-0 lg:w-[293px] lg:h-[384px]' />
+                <img src={Img2} alt="" className='translate-y-[64px] mx-auto w-full lg:mx-0 lg:w-[390px] h-[384px] lg:h-[512px]'/>
+                <img src={Img3} alt=""  className='mx-auto w-full lg:mx-0 hidden lg:flex lg:w-[293px] lg:h-[384px]'/>
             </div>
 
             {/* bottom titre */}

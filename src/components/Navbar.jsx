@@ -14,7 +14,7 @@ function Navbar() {
   }
 
   return (
-     <div className='bg-[#161722] py-[12px] fixed z-20 w-full'>
+     <div className='bg-[#161722] fixed py-[12px] z-20 w-full'>
         <Container>
             <div className='flex items-center justify-between'>
                 <div>
@@ -28,7 +28,7 @@ function Navbar() {
                     <div className='w-[2px] h-[87px] hidden xl:flex translate-x-[-50px] 2xl:translate-x-[-70px] absolute bg-gray-400'></div>
                     <ul className='text-white text-[16px] font-normal uppercase space-y-[30px] md:flex md:items-center md:space-y-0 md:space-x-[30px] lg:space-x-[60px]'>
                         <li><a href="/">Home</a></li>
-                        <li><a href="about">About us</a></li>
+                        <li><a href="/about">About us</a></li>
                         <li><a href="/">Sermon</a></li>
                         <li><a href="/">Blog</a></li>
                     </ul>
