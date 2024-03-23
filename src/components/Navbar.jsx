@@ -29,7 +29,7 @@ function Navbar() {
                     <ul className='text-white text-[16px] font-normal uppercase space-y-[30px] md:flex md:items-center md:space-y-0 md:space-x-[30px] lg:space-x-[60px]'>
                         <li><a href="/">Home</a></li>
                         <li><a href="/about">About us</a></li>
-                        <li><a href="/">Sermon</a></li>
+                        <li><a href="/sermon">Sermon</a></li>
                         <li><a href="/">Blog</a></li>
                     </ul>
 

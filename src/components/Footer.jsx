@@ -27,7 +27,7 @@ function Footer() {
                         <h1 className='text-[16px] font-medium'>Quicklinks</h1>
                         <ul className='flex space-x-[20px] lg:space-x-0 w-fit mx-auto lg:mx-0 lg:flex-col lg:space-y-[24px] text-[12px]'>
                             <li><a href="about">About us</a></li>
-                            <li><a href="/">Sermon</a></li>
+                            <li><a href="/sermon">Sermon</a></li>
                             <li><a href="/">Events</a></li>
                             <li><a href="/">Blog</a></li>
                         </ul>

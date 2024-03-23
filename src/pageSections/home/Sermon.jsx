@@ -51,7 +51,7 @@ function Sermon() {
         </div>
 
         <div className='mt-[48px] w-fit'>
-            <a href="/" className='flex items-center space-x-2 w-fit mx-auto'>
+            <a href="/sermon" className='flex items-center space-x-2 w-fit mx-auto'>
                 <p className='text-[#161722] text-[24px] font-normal'>View all Sermons</p>
                 <img src={Arrow} alt="" className='w-[24px] h-auto'/>
             </a>
