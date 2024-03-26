@@ -29,7 +29,7 @@ function Footer() {
                             <li><a href="about">About us</a></li>
                             <li><a href="/sermon">Sermon</a></li>
                             <li><a href="/">Events</a></li>
-                            <li><a href="/">Blog</a></li>
+                            <li><a href="blog">Blog</a></li>
                         </ul>
                     </div>
 

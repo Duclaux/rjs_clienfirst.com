@@ -30,7 +30,7 @@ function Navbar() {
                         <li><a href="/">Home</a></li>
                         <li><a href="/about">About us</a></li>
                         <li><a href="/sermon">Sermon</a></li>
-                        <li><a href="/">Blog</a></li>
+                        <li><a href="/blog">Blog</a></li>
                     </ul>
 
                     <div className='mt-[50px] text-[16px] uppercase md:mt-0'>
