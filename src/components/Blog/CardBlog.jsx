@@ -22,7 +22,9 @@ function CardBlog() {
 
             <p className='font-normal text-[16px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor<br className='hidden min-[594px]:flex'/> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud<br className='hidden min-[594px]:flex'/> exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure<br className='hidden min-[594px]:flex'/> dolor.</p>
 
-            <CustomBtn title='Read more' Bg='bg-[#FFD2A4] text-[#000] mt-[33px] px-[30px] py-[12px] sm:px-[64px] sm:py-[24px]'/>
+            <a href='/BlogPost'>
+              <CustomBtn title='Read more' Bg='bg-[#FFD2A4] text-[#000] mt-[33px] px-[30px] py-[12px] sm:px-[64px] sm:py-[24px]'/>
+            </a>
         </div>
     </div>
   )
